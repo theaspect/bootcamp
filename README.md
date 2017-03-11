@@ -174,14 +174,3 @@
 6. https://linuxjourney.com
 7. https://openedu.ru/
 8. http://javarush.ru/cs50.html 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-30754630-4', 'auto');
-  ga('send', 'pageview');
-
-</script>
