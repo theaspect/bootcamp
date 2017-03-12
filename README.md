@@ -34,22 +34,22 @@
 13. [Пятиминутка PHP](https://soundcloud.com/5minphp)
 
 # Блоги
-1. http://blog.golodnyj.ru
-2. http://habr.ru
-3. http://blog.jdevelop.com/
-4. http://eax.me
-5. http://tonsky.livejournal.com/
-6. http://shipilev.livejournal.com
-7. http://sergeyteplyakov.blogspot.ru/
-8. http://alenacpp.blogspot.ru/
+1. [Голодный](http://blog.golodnyj.ru)
+3. [Jdevelop](http://blog.jdevelop.com)
+4. [Записки программиста](http://eax.me)
+5. [Tonsky](http://tonsky.livejournal.com)
+6. [Shipilёv](http://shipilev.livejournal.com)
+7. [Sergey Teplyakov](http://sergeyteplyakov.blogspot.ru)
+8. [AlenaCPP](http://alenacpp.blogspot.ru)
+8. [HabraHabr](http://habr.ru)
 
 # Видеоканалы
-1. https://www.youtube.com/user/HexletUniversity
-2. https://www.youtube.com/channel/UCNamw6iGTmpsz7sm97Y308w
+1. [Hexlet](https://www.youtube.com/user/HexletUniversity)
+2. [Tech Talks @NSU](https://www.youtube.com/channel/UCNamw6iGTmpsz7sm97Y308w)
 
 # Конференции и митапы
-1. https://vk.com/sborkacamp
-2. https://2017.codefest.ru/
+1. [Sborkacamp @Кемерово](https://vk.com/sborkacamp)
+2. [CodeFest @Новосибирск](https://2017.codefest.ru)
 
 # Книги
 
