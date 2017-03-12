@@ -128,22 +128,20 @@
 
 # Разное
 ## Статьи
-1. http://www.hr-portal.ru/blog/k-chertu-motivaciyu-vse-chto-vam-nuzhno-eto-disciplina
-2. https://ru.wikibooks.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B1%D0%B0%D0%BB%D1%8F_%D0%A5%D1%83%D0%BD%D1%82%D1%8B
-3. http://old.computerra.ru/195579/
-4. http://shipilev.livejournal.com/110714.html
-5. http://addmeto.cc/2013-04-19/
-6. http://ru-declarative.livejournal.com/64216.html
-7. https://github.com/valor-software/valor-style-guides/blob/master/contribution/ten-commandments.md#10-заповедей-программирования-без-эго
-8. http://www.wasm.ru/article/101
-9. http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html
-10. http://www.russianlutheran.org/python/zen/zen.html
-11. http://pascal.sources.ru/articles/formal.htm
-12. http://alenacpp.blogspot.ru/2010/03/blog-post_21.html
-13. https://dev.by/lenta/main/syu-ha-ri-tri-stadii-obucheniya-i-nemnogo-nitsshe
-14. http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html
-15. https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18#.p6tpgvvxw
-16. https://ilya-sher.org/2016/05/19/tips-for-beginning-systems-and-software-engineers/ (Английская)
+1. [К черту мотивацию! Все, что вам нужно, это дисциплина](http://www.hr-portal.ru/blog/k-chertu-motivaciyu-vse-chto-vam-nuzhno-eto-disciplina)
+2. [Методы Кристобаля Хунты](https://ru.wikibooks.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B1%D0%B0%D0%BB%D1%8F_%D0%A5%D1%83%D0%BD%D1%82%D1%8B)
+3. [Вторая сигнальная система и "мышь"](http://old.computerra.ru/195579/)
+4. [Про профессиональный рост](http://shipilev.livejournal.com/110714.html)
+6. [О глубокой философии программирования](http://ru-declarative.livejournal.com/64216.html)
+7. [10 заповедей программирования без эго](https://github.com/valor-software/valor-style-guides/blob/master/contribution/ten-commandments.md#10-заповедей-программирования-без-эго)
+8. [История одного байта](https://geektimes.ru/post/27055/)
+9. [Закон Дырявых Абстракций](http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html)
+10. [PEP 20 (Дзэн Питона) в примерах](http://www.russianlutheran.org/python/zen/zen.html)
+11. [Алгоритм преобразует алгоритм](http://pascal.sources.ru/articles/formal.htm)
+12. [Хорошо там, где нас нет](http://alenacpp.blogspot.ru/2010/03/blog-post_21.html)
+13. [Сю Ха Ри: три стадии обучения](https://dev.by/lenta/main/syu-ha-ri-tri-stadii-obucheniya-i-nemnogo-nitsshe)
+15. [Frontend Dev: хороший, плохой, злой. Цикл из 3 статей](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18#.p6tpgvvxw)
+16. [Tips for beginning systems and software engineers](https://ilya-sher.org/2016/05/19/tips-for-beginning-systems-and-software-engineers/ (Английская))
 
 ## Подборки
 1. http://sergeyteplyakov.blogspot.ru/2014/04/best-books-on-cnet.html 
