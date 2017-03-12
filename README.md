@@ -7,8 +7,8 @@
 2. Ведем дневник того что сделали, изучили, попробовали, прочитали (можно в блокноте, для этого напишите первой строкой напишите .LOG и блокнот будет добавлять дату автоматически)
 
 # Регистрации и софт
-1. Заводим почту на [GMain](http://gmail.com/) и настраиваем [сборку](https://support.google.com/mail/answer/21289?hl=ru) почты с других почтовых аккаунтов
-2. Ставим telegram на телефон и подписываемся на интересные [чаты](https://t.me/Chats_Developers)
+1. Заводим почту на [GMail](http://gmail.com/) и настраиваем [сборку](https://support.google.com/mail/answer/21289?hl=ru) почты с других почтовых аккаунтов
+2. Ставим [telegram](https://telegram.org/) на телефон и подписываемся на релевантные вам [чаты](https://t.me/Chats_Developers)
 3. [Feedly](http://feedly.com)
 4. [LinguaLeo](http://lingualeo.com/ru/r/8bncji)
 5. [Evernote](https://evernote.com/) записываем книги, которые нужно прочитать; новые термины, про которые нужно почтать; цитаты
@@ -19,19 +19,19 @@
 10. [Vim](http://www.vim.org/) 
 
 # Подкасты
-1. https://radio-t.com
-2. http://razbor-poletov.com
-3. http://devzen.ru
-4. https://radiojs.ru/
-5. http://sdcast.ksdaemon.ru/
-6. http://theartofprogramming.podbean.com/
-7. http://apptractor.ru/AndroidDev/
-8. http://www.rwpod.com/
-9. https://spbaltnet.podfm.ru/solo/
-10. http://itpodcasts.com.ua/?cat=6
-11. https://soundcloud.com/web-standards/
-12. http://golangshow.com
-13. https://soundcloud.com/5minphp
+1. [Radio-T](https://radio-t.com)
+2. [Разбор Полётов](http://razbor-poletov.com)
+3. [DevZen](http://devzen.ru)
+4. [RadioJS](https://radiojs.ru)
+5. [Software Development Podcast](http://sdcast.ksdaemon.ru)
+6. [The Art Of Programming](http://theartofprogramming.podbean.com)
+7. [Android Dev Подкаст](http://apptractor.ru/AndroidDev/)
+8. [RWPod](http://www.rwpod.com/)
+9. [Solo on .NET](https://spbaltnet.podfm.ru/solo/)
+10. [Откровенно про IT карьеризм](http://itpodcasts.com.ua/?cat=6)
+11. [Веб-стандарты](https://soundcloud.com/web-standards/)
+12. [Golang Show](http://golangshow.com)
+13. [Пятиминутка PHP](https://soundcloud.com/5minphp)
 
 # Блоги
 1. http://blog.golodnyj.ru
