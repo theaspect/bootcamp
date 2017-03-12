@@ -178,3 +178,6 @@
 18. [Что такое анти-паттерны?](https://habrahabr.ru/post/59005/)
 19. [Словарь ненормативной лексики программиста](https://www.ashmanov.com/pap/obspro.phtml)
 20. [Правила Ашманова-2. Управление проектами](https://www.ashmanov.com/pap/ashrul2)
+21. [Картошка и инновации](http://lionet.livejournal.com/109793.html)
+22. [Ночной дозор](https://habrahabr.ru/post/203276/)
+21. [Матрица компетентности программиста](http://grompe.org.ru/static/prog_comp_matrix_ru.html)
