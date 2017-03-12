@@ -127,22 +127,6 @@
 1. Компьютерные сети. Эндрю Таненбаум (?/5)
 
 # Разное
-## Статьи
-1. [К черту мотивацию! Все, что вам нужно, это дисциплина](http://www.hr-portal.ru/blog/k-chertu-motivaciyu-vse-chto-vam-nuzhno-eto-disciplina)
-2. [Методы Кристобаля Хунты](https://ru.wikibooks.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B1%D0%B0%D0%BB%D1%8F_%D0%A5%D1%83%D0%BD%D1%82%D1%8B)
-3. [Вторая сигнальная система и "мышь"](http://old.computerra.ru/195579/)
-4. [Про профессиональный рост](http://shipilev.livejournal.com/110714.html)
-6. [О глубокой философии программирования](http://ru-declarative.livejournal.com/64216.html)
-7. [10 заповедей программирования без эго](https://github.com/valor-software/valor-style-guides/blob/master/contribution/ten-commandments.md#10-заповедей-программирования-без-эго)
-8. [История одного байта](https://geektimes.ru/post/27055/)
-9. [Закон Дырявых Абстракций](http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html)
-10. [PEP 20 (Дзэн Питона) в примерах](http://www.russianlutheran.org/python/zen/zen.html)
-11. [Алгоритм преобразует алгоритм](http://pascal.sources.ru/articles/formal.htm)
-12. [Хорошо там, где нас нет](http://alenacpp.blogspot.ru/2010/03/blog-post_21.html)
-13. [Сю Ха Ри: три стадии обучения](https://dev.by/lenta/main/syu-ha-ri-tri-stadii-obucheniya-i-nemnogo-nitsshe)
-15. [Frontend Dev: хороший, плохой, злой. Цикл из 3 статей](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18#.p6tpgvvxw)
-16. [Tips for beginning systems and software engineers](https://ilya-sher.org/2016/05/19/tips-for-beginning-systems-and-software-engineers/ (Английская))
-17. [Алгоритм поиска первой работы](https://ru.hexlet.io/blog/posts/how-to-find-your-first-job)
 
 ## Подборки
 1. [Книги для изучения C#/.NET](http://sergeyteplyakov.blogspot.ru/2014/04/best-books-on-cnet.html)
@@ -169,3 +153,24 @@
 6. [egghead.io](https://egghead.io)
 7. [edx](https://www.edx.org)
 8. [udemy](https://www.udemy.com)
+
+# Статьи
+1. [К черту мотивацию! Все, что вам нужно, это дисциплина](http://www.hr-portal.ru/blog/k-chertu-motivaciyu-vse-chto-vam-nuzhno-eto-disciplina)
+2. [Методы Кристобаля Хунты](https://ru.wikibooks.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B1%D0%B0%D0%BB%D1%8F_%D0%A5%D1%83%D0%BD%D1%82%D1%8B)
+3. [Вторая сигнальная система и "мышь"](http://old.computerra.ru/195579/)
+4. [Про профессиональный рост](http://shipilev.livejournal.com/110714.html)
+5. [Как закаляется сталь](https://github.com/bobuk/addmeto.cc/blob/master/pages/2013-04-19.md)
+6. [О глубокой философии программирования](http://ru-declarative.livejournal.com/64216.html)
+7. [10 заповедей программирования без эго](https://github.com/valor-software/valor-style-guides/blob/master/contribution/ten-commandments.md#10-заповедей-программирования-без-эго)
+8. [История одного байта](https://geektimes.ru/post/27055/)
+9. [Закон Дырявых Абстракций](http://russian.joelonsoftware.com/Articles/LeakyAbstractions.html)
+10. [PEP 20 (Дзэн Питона) в примерах](http://www.russianlutheran.org/python/zen/zen.html)
+11. [Алгоритм преобразует алгоритм](http://pascal.sources.ru/articles/formal.htm)
+12. [Хорошо там, где нас нет](http://alenacpp.blogspot.ru/2010/03/blog-post_21.html)
+13. [Сю Ха Ри: три стадии обучения](https://dev.by/lenta/main/syu-ha-ri-tri-stadii-obucheniya-i-nemnogo-nitsshe)
+15. [Frontend Dev: хороший, плохой, злой. Цикл из 3 статей](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18#.p6tpgvvxw)
+16. [Tips for beginning systems and software engineers](https://ilya-sher.org/2016/05/19/tips-for-beginning-systems-and-software-engineers/ (Английская))
+17. [Алгоритм поиска первой работы](https://ru.hexlet.io/blog/posts/how-to-find-your-first-job)
+18. [Что такое анти-паттерны?](https://habrahabr.ru/post/59005/)
+19. [Словарь ненормативной лексики программиста](https://www.ashmanov.com/pap/obspro.phtml)
+20. [Правила Ашманова-2. Управление проектами](https://www.ashmanov.com/pap/ashrul2)
