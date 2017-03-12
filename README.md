@@ -142,33 +142,30 @@
 13. [Сю Ха Ри: три стадии обучения](https://dev.by/lenta/main/syu-ha-ri-tri-stadii-obucheniya-i-nemnogo-nitsshe)
 15. [Frontend Dev: хороший, плохой, злой. Цикл из 3 статей](https://medium.com/russian/frontend-dev-хороший-плохой-злой-часть-1-хороший-путь-865b640d5d18#.p6tpgvvxw)
 16. [Tips for beginning systems and software engineers](https://ilya-sher.org/2016/05/19/tips-for-beginning-systems-and-software-engineers/ (Английская))
+17. [Алгоритм поиска первой работы](https://ru.hexlet.io/blog/posts/how-to-find-your-first-job)
 
 ## Подборки
-1. http://sergeyteplyakov.blogspot.ru/2014/04/best-books-on-cnet.html 
-2. http://sharpc.livejournal.com/67583.html
-3. http://www.apofig.com/2014/12/java.html
-4. http://sergeyteplyakov.blogspot.ru/2010/03/blog-post.html
-5. https://dev.by/lenta/main/top-desyat-naibolee-znachimyh-knig-po-programmirovaniyu
-6. https://habrahabr.ru/post/153373/
-7. http://nashbridges.me/ruby-books
-8. https://www.google.com/about/careers/students/guide-to-technical-development.html
-9. http://artifex.org/~hblanks/talks/2011/pep20_by_example.html
-10. https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
-11. http://www.statcats.ru/2016/03/blog-post.html
-12. https://ru.hexlet.io/blog/posts/how-to-find-your-first-job 
+1. [Книги для изучения C#/.NET](http://sergeyteplyakov.blogspot.ru/2014/04/best-books-on-cnet.html)
+2. [Теоретический минимум для программиста](http://sharpc.livejournal.com/67583.html)
+3. [Как выучить java?](http://www.apofig.com/2014/12/java.html)
+4. [Классические книги по программированию](http://sergeyteplyakov.blogspot.ru/2010/03/blog-post.html)
+5. [Топ десять наиболее значимых книг по программированию](https://dev.by/lenta/main/top-desyat-naibolee-znachimyh-knig-po-programmirovaniyu)
+6. [Книги, которые должен прочитать Java программист: от новичка до профессионала](https://habrahabr.ru/post/153373/)
+7. [Ресурсы и книги по Ruby и Ruby on Rails](http://nashbridges.me/ruby-books)
+8. [Technical Development Guide (на английском)](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+10. [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 
 ## Видео
-1. https://youtu.be/jt3_sq8LQYM
-2. https://www.youtube.com/watch?v=ViYGWK7gC2k
-3. https://www.youtube.com/watch?v=yITSwg3VeFM
-4. https://www.youtube.com/watch?v=tpv5n2jWHlw
+1. [Джедайская техника 2.0](https://youtu.be/jt3_sq8LQYM)
+2. [Как начать изучать front-end? Какие курсы? Какие книги? Не паникуем!](https://www.youtube.com/watch?v=ViYGWK7gC2k)
+4. [Эффективная работа с кодом в IntelliJ IDEA](https://www.youtube.com/watch?v=tpv5n2jWHlw)
 
 ## Курсы
-1. http://javarush.ru
-2. https://www.codecademy.com
-3. https://egghead.io
-4. https://www.edx.org
-5. https://www.udemy.com
-6. https://linuxjourney.com
-7. https://openedu.ru/
-8. http://javarush.ru/cs50.html 
+1. [javarush](http://javarush.ru)
+2. [Открытое образование](https://openedu.ru/)
+3. [Гарвардский курс CS50](http://javarush.ru/cs50.html)
+4. [linux journey](https://linuxjourney.com)
+5. [code academy](https://www.codecademy.com)
+6. [egghead.io](https://egghead.io)
+7. [edx](https://www.edx.org)
+8. [udemy](https://www.udemy.com)
