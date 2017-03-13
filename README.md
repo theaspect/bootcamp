@@ -89,6 +89,9 @@
 ## Python
 1. Программирование на Python. Марк Лутц (4-е издание ?/5)
 
+## C/C++
+1. Правила программирования на C и C++. Ален Голуб (?/5)
+
 ## Git
 1. Pro Git. Scott Chacon (русская версия есть на официальном сайте гита. 3/5)
 2. Магия Git. Бен Лин (?/5)
@@ -142,6 +145,8 @@
 7. [Ресурсы и книги по Ruby и Ruby on Rails](http://nashbridges.me/ruby-books)
 8. [Technical Development Guide (на английском)](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 10. [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
+11. [Рекомендации по С от stackoverflow](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list/562377#562377)
+12. [Рекомендации по С от iso-9899](http://www.iso-9899.info/wiki/Books)
 
 ## Видео
 1. [Джедайская техника 2.0](https://youtu.be/jt3_sq8LQYM)
