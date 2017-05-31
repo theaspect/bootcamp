@@ -114,6 +114,11 @@
 5. Чистый код. Роберт Мартин (?/5)
 6. Программист-прагматик. Эндрю Хант, Девид Томас (4/5)
 
+## Анализ данные
+1. [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
+2. [Data Science в реальной жизни](https://rb.ru/opinion/data-science-irl/)
+3. [Интервью с Павлом Клеменковым](http://futurebanking.ru/post/3219)
+
 ## Lan
 1. Компьютерные сети. Эндрю Таненбаум (?/5)
 
