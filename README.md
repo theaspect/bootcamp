@@ -167,6 +167,7 @@
 1. [Джедайская техника 2.0](https://youtu.be/jt3_sq8LQYM)
 2. [Как начать изучать front-end? Какие курсы? Какие книги? Не паникуем!](https://www.youtube.com/watch?v=ViYGWK7gC2k)
 4. [Эффективная работа с кодом в IntelliJ IDEA](https://www.youtube.com/watch?v=tpv5n2jWHlw)
+5. [Чего хотят работодатели](https://www.youtube.com/watch?v=qEeimAoSyvk)
 
 ## Курсы
 1. [javarush](http://javarush.ru)
