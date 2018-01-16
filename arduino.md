@@ -31,16 +31,16 @@
 | micro:bit <br/> [![microbit](http://microbit.org/images/microbit-front.png)](http://microbit.org/) |  |  | [![microbit](http://www.pighixxx.com/test/wp-content/uploads/2017/02/microbit_pinout_v10-300x214.png)](http://www.pighixxx.com/test/portfolio-items/microbit/?portfolioID=360) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) |
 | Circuit Playground Express <br/> [![cpe](https://cdn-shop.adafruit.com/145x109/3333-03.jpg)](https://www.adafruit.com/product/3333) |  |  | [![cpe](https://cdn-learn.adafruit.com/assets/assets/000/047/156/large1024/circuit_playground_Adafruit_Circuit_Playground_Express_Pinout.png?1507829017)](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) |
 
-
-
 # Сенсоры
 
 ## Датчик влажности резистивный
 ![Soil moisture sensor](http://wiki.keyestudio.com/images/5/51/7734.png) для меня настоящим открытием стал гальванический эффект.
 Этот датчик растворяется в момент использования. Первый датчик я подключил напрямую к 5v и одна из ног полностью растворилась за неделю.
-Второй датчик я подключил к цифровому пину и напряжение подаю только на момент измерения, держится пару тройку недель, но тоже растворяется – даже при цифровом 0 все равно подается ток 1mV. На цикл подать напряжение на пин, замерить, убрать напряжение с пина уходит 125uS. Есть идея попробовать подключить через транзистор **TODO**
-или периодически менять направление тока между ногами.
+Второй датчик я подключил к цифровому пину и напряжение подаю только на момент измерения, держится пару тройку недель, но тоже растворяется – даже при цифровом 0 все равно подается ток 1mV. На цикл подать напряжение на пин, замерить, убрать напряжение с пина уходит 125uS. Предлагают по-очереди менять направление тока. Пробовал подключить через транзистор – не сильно помогло, коррозия съедает датчик сама по себе. Умельцы заменяют ноги на два графитовых карандаша [раз](https://usamodelkina.ru/9103-indikator-vlazhnosti-pochvy.html) либо покупают [графитовый](https://mysku.ru/blog/aliexpress/56072.html)
 Я сразу заказал [пачку датчиков](https://ru.aliexpress.com/store/product/Soil-Moisture-Sensor/1950989_32532715392.html).
+
+## Датчик влажности емкостный
+![Capacitive moisture sensor](https://ae01.alicdn.com/kf/HTB1Us6abdHO8KJjSZFHq6zWJFXaT/3-3-5-5.jpg_640x640.jpg) используется переменный ток чтобы измерять влажность почвы без непосредственного контакта за счет изменения диэлектрической проницаемости почвы. [Стоит дороже](https://ru.aliexpress.com/wholesale?SearchText=+capacitive+soil+moisture+sensor) но должен быть менее подвержен коррозии. Самодельная [версия](http://gygrosensor.ucoz.ru/publ/sensor_80mhz/1-1-0-20) на базе 80Mhz [кварцевого генератора](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D1%80%D1%86%D0%B5%D0%B2%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80)
 
 ## Датчик дыма
 ![Gas sendor](http://wiki.keyestudio.com/images/0/01/7629.png) при работе нагревается
