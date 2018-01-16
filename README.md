@@ -7,7 +7,7 @@
 2. Ведем дневник того что сделали, изучили, попробовали, прочитали (можно в блокноте, для этого напишите первой строкой напишите .LOG и блокнот будет добавлять дату автоматически)
 
 # Как начать с нуля
-Для самого базового введения посмотрите [Гарвардский курс CS50](http://javarush.ru/cs50.html). После этого нужно определиться со специализацией: back-end (linux, java, nodejs, ruby, php), front-end (html, css, js, react, angular, nodejs, webpack), android (java, kotlin), ios (swift), gamedev (c, c++, ???), devops (linux, chef, puppet, go). Git понадобится везде. После этого смотрите [онлайн-лекции](#%D0%9A%D1%83%D1%80%D1%81%D1%8B) по выбранному направлению
+Для самого базового введения посмотрите [Гарвардский курс CS50](http://javarush.ru/cs50.html). После этого нужно определиться со специализацией: back-end (linux, java, nodejs, ruby, php), front-end (html, css, js, react, angular, nodejs, webpack), android (java, kotlin), ios (swift), gamedev (c, c++, ???), devops (linux, chef, puppet, go). Git понадобится везде. После этого смотрите [онлайн-лекции](#курсы) по выбранному направлению
 
 # Регистрации и софт
 1. Заводим почту на [GMail](http://gmail.com/) и настраиваем [сборку](https://support.google.com/mail/answer/21289?hl=ru) почты с других почтовых аккаунтов
