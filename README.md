@@ -162,6 +162,7 @@
 10. [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 11. [Рекомендации по С от stackoverflow](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list/562377#562377)
 12. [Рекомендации по С от iso-9899](http://www.iso-9899.info/wiki/Books)
+13. [Arduino](arduino)
 
 ## Видео
 1. [Джедайская техника 2.0](https://youtu.be/jt3_sq8LQYM)
@@ -178,6 +179,8 @@
 6. [egghead.io](https://egghead.io)
 7. [edx](https://www.edx.org)
 8. [udemy](https://www.udemy.com)
+9. [hexlet](https://ru.hexlet.io)
+10.[geekbrains](https://geekbrains.ru)
 
 # Статьи
 1. [К черту мотивацию! Все, что вам нужно, это дисциплина](http://www.hr-portal.ru/blog/k-chertu-motivaciyu-vse-chto-vam-nuzhno-eto-disciplina)
