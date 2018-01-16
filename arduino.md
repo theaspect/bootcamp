@@ -30,6 +30,31 @@
 | ESP8266 ESP-01 <br/> [![esp-01](https://esp8266.ru/wp-content/images/esp8266-modules/thumbs/thumbs_ESP8266_ESP-01.jpg)](https://esp8266.ru/tag/esp-01/) | 3v3 |  | [![esp-01](http://www.pighixxx.com/test/wp-content/uploads/2015/09/ESP_Pinout_01_big-300x214.png)](http://www.pighixxx.com/test/portfolio-items/esp8266/?portfolioID=360) | Простейшая из варриаций ESP-8266, контроллер с WiFi, может понимать AT-команды, очень легко брикнуть, оживляется при помощи USB-TTL |
 | micro:bit <br/> [![microbit](http://microbit.org/images/microbit-front.png)](http://microbit.org/) |  |  | [![microbit](http://www.pighixxx.com/test/wp-content/uploads/2017/02/microbit_pinout_v10-300x214.png)](http://www.pighixxx.com/test/portfolio-items/microbit/?portfolioID=360) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) |
 | Circuit Playground Express <br/> [![cpe](https://cdn-shop.adafruit.com/145x109/3333-03.jpg)](https://www.adafruit.com/product/3333) |  |  | [![cpe](https://cdn-learn.adafruit.com/assets/assets/000/047/156/large1024/circuit_playground_Adafruit_Circuit_Playground_Express_Pinout.png?1507829017)](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) |
+| Onion Omega2 <br/> [![omega2](https://onion.io/wp-content/uploads/2017/01/o2-45-top-600x600.png)](https://onion.io) |  | D15 | <img src="https://github.com/OnionIoT/Onion-Media/raw/master/Pinouts/Omega2.png" width=100> | SoC на базе линукса, много разных [dock](https://onion.io/product-category/docks/) для подключения, в том числе Arduino |
+
+# Стандарты и Протоколы
+
+## GPIO
+
+## PWM
+[Pulse width modulation](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%80%D0%BE%D1%82%D0%BD%D0%BE-%D0%B8%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F) позволяет уменьшать эффективное напряжение на цифровых выходах [arduino](https://www.arduino.cc/en/Tutorial/PWM) [amperka](http://wiki.amperka.ru/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82-arduino:%D1%88%D0%B8%D0%BC?s[]=pwm)
+
+## Serial UART USART
+[Universal asynchronous receiver-transmitter](https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA) вариант universal synchronous and asynchronous receiver-transmitter. Обычный последовательный порт для связи между устройствами. Обязательно необходимо согласовать скорость 300; 600; 1200; 2400; 4800; 9600; 19200; 38400; 57600; 115200; 230400; 460800; 921600. [arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial/) Ардуино может иметь аппаратный порт, а может эмулировать. Во втором случае больших скоростей передачи данных не добиться. Можно купить usb-ttl uart adapter для прошивки устройств. 
+
+## TTL
+Transistor-transistor logic. Общее наименование подключения между транзисторами и микросхемами.
+
+## SPI
+[Serial Peripheral Interface](https://ru.wikipedia.org/wiki/Serial_Peripheral_Interface) шина для подключения устройств. Имеются [несколько](https://www.maximintegrated.com/en/app-notes/index.mvp/id/3947) вариантов подключения в простейшем на каждое устройство выделяется по 1 пину для адресации. [амперка](http://wiki.amperka.ru/js:spi) [arduino](https://www.arduino.cc/en/Reference/SPI)
+
+## I2C
+[Inter-Integrated Circuit](https://ru.wikipedia.org/wiki/I%C2%B2C) шина для подключения низкоскоростных устройств. 7-битная адресация позволяет подключить к шине до 127 устройств. [амперка](http://wiki.amperka.ru/js:i2c) [arduino](https://www.arduino.cc/en/Reference/Wire)
+
+## I2S
+[Inter-IC Sound](https://ru.wikipedia.org/wiki/I%C2%B2S) стандарт для подключения аудио-устройств. Не путать с I2C
+
+## Pull-up Pull-down
 
 # Сенсоры
 
