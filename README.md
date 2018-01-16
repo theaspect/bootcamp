@@ -162,7 +162,7 @@
 10. [Подборка ресурсов по машинному обучению](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
 11. [Рекомендации по С от stackoverflow](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list/562377#562377)
 12. [Рекомендации по С от iso-9899](http://www.iso-9899.info/wiki/Books)
-13. [Arduino](arduino)
+13. [Arduino](arduino.md)
 
 ## Видео
 1. [Джедайская техника 2.0](https://youtu.be/jt3_sq8LQYM)
