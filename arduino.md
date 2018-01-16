@@ -40,7 +40,7 @@
 Я сразу заказал [пачку датчиков](https://ru.aliexpress.com/store/product/Soil-Moisture-Sensor/1950989_32532715392.html).
 
 ## Датчик влажности емкостный
-![Capacitive moisture sensor](https://ae01.alicdn.com/kf/HTB1Us6abdHO8KJjSZFHq6zWJFXaT/3-3-5-5.jpg_640x640.jpg| width=100) используется переменный ток чтобы измерять влажность почвы без непосредственного контакта за счет изменения диэлектрической проницаемости почвы. [Стоит дороже](https://ru.aliexpress.com/wholesale?SearchText=+capacitive+soil+moisture+sensor) но должен быть менее подвержен коррозии. Самодельная [версия](http://gygrosensor.ucoz.ru/publ/sensor_80mhz/1-1-0-20) на базе 80Mhz [кварцевого генератора](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D1%80%D1%86%D0%B5%D0%B2%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80)
+<img src="https://images-na.ssl-images-amazon.com/images/I/61zUklVDaKL._SY355_.jpg" width=100/> используется переменный ток чтобы измерять влажность почвы без непосредственного контакта за счет изменения диэлектрической проницаемости почвы. [Стоит дороже](https://ru.aliexpress.com/wholesale?SearchText=+capacitive+soil+moisture+sensor) но должен быть менее подвержен коррозии. Самодельная [версия](http://gygrosensor.ucoz.ru/publ/sensor_80mhz/1-1-0-20) на базе 80Mhz [кварцевого генератора](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D1%80%D1%86%D0%B5%D0%B2%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80)
 
 ## Датчик дыма
 ![Gas sendor](http://wiki.keyestudio.com/images/0/01/7629.png) при работе нагревается
