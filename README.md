@@ -180,7 +180,7 @@
 7. [edx](https://www.edx.org)
 8. [udemy](https://www.udemy.com)
 9. [hexlet](https://ru.hexlet.io)
-10.[geekbrains](https://geekbrains.ru)
+10. [geekbrains](https://geekbrains.ru)
 
 # Статьи
 1. [К черту мотивацию! Все, что вам нужно, это дисциплина](http://www.hr-portal.ru/blog/k-chertu-motivaciyu-vse-chto-vam-nuzhno-eto-disciplina)
