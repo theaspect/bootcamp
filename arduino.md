@@ -59,7 +59,7 @@ Transistor-transistor logic. Общее наименование подключ�
 # Распиновка
 
 ## USB
-<img src="https://cs8.pikabu.ru/post_img/2016/04/14/5/1460619313193062117.png" width="100" />
+<img src="https://cs8.pikabu.ru/post_img/2016/04/14/5/1460619313193062117.png" width="200" />
 
 # Сенсоры
 
