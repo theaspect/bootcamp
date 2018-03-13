@@ -151,6 +151,8 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 # Химия
 
 ## Флюсы
+[1](http://elwo.ru/publ/instrumenty_radioljubitelja/vidy_fljusov/25-1-0-278)
+[2](http://elektronika-muk.ru/konspekt/vidy-pripoja-i-fljusa.html)
 
 ## Изоляция
 Самый простой и дешевый изолятор – цапон-лак. Растворяется ацетоном.
