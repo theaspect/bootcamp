@@ -167,6 +167,10 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 ## XH2 Pitch terminal
 <img src="https://ae01.alicdn.com/kf/HTB1F4PkOpXXXXcIXFXXq6xXFXXXo/40-Sets-Kit-in-box-XH2-54-Right-Angle-2p-3p-4p-5pin-2-54mm-Pitch.jpg_640x640.jpg" width=200 /> Коннекторы с защелками, могут быть очень тугими. Для обжимки используется crimping tool, можно обжать пассатижами. Идут комлпектами от 2 до 5 пинов.
 
+## 9V Clip Barrel Male
+<img src="https://i.ebayimg.com/images/g/N9oAAOSw5cNYUl~f/s-l300.jpg" width=200 />
+Адаптер для батарей вида PP3 (крона) в   5.5 мм x 2.1 мм
+
 # Химия
 
 ## Флюсы
