@@ -229,8 +229,8 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 # Прототипные платы (prototype breadboard)
 
 ## Текстолитовые
-<img src="https://img.banggood.com/images/oaupload/banggood/images/40/86/ef082e74-2d84-414e-9fc7-59ae7c5f7c49.jpg" src="200"> без дорожек
-<img src="https://ae01.alicdn.com/kf/HTB1UbBnLpXXXXXgaXXXq6xXFXXXD/5-pcs-lot-universal-Stripboard-Veroboard-Seul-C-t-7x5-cm.jpg_640x640.jpg"> и с дорожками
+<img src="https://img.banggood.com/images/oaupload/banggood/images/40/86/ef082e74-2d84-414e-9fc7-59ae7c5f7c49.jpg" src="200" /> без дорожек
+<img src="https://ae01.alicdn.com/kf/HTB1UbBnLpXXXXXgaXXXq6xXFXXXD/5-pcs-lot-universal-Stripboard-Veroboard-Seul-C-t-7x5-cm.jpg_640x640.jpg" /> и с дорожками
 выполняются в множестве размеров
 
 ## No solder
