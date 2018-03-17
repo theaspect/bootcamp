@@ -33,6 +33,36 @@
 | Circuit Playground Express <br/> [![cpe](https://cdn-shop.adafruit.com/145x109/3333-03.jpg)](https://www.adafruit.com/product/3333) |  |  | [![cpe](https://cdn-learn.adafruit.com/assets/assets/000/047/156/large1024/circuit_playground_Adafruit_Circuit_Playground_Express_Pinout.png?1507829017)](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) |
 | Onion Omega2 <br/> [![omega2](https://onion.io/wp-content/uploads/2017/01/o2-45-top-600x600.png)](https://onion.io) |  | D15 | <img src="https://github.com/OnionIoT/Onion-Media/raw/master/Pinouts/Omega2.png" width=100> | SoC на базе линукса, много разных [dock](https://onion.io/product-category/docks/) для подключения, в том числе Arduino |
 
+## Чипы
+
+* [Atmel ATmega640/V-1280/V-1281/V-2560/V-2561/V](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)
+* [ATmega328/P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
+
+## Управление питанием
+Подробный [разбор](http://www.gammon.com.au/power) различных режимов энергосбережения. В самом простом режиме SLEEP_MODE_IDLE чип проснется через 1 миллисекунду и его необходимо опять усыпить. Мои замеры представлены для Arduino Nano
+
+| Метод | Потребляемый ток mA |
+|---|---|
+| Blink | 28.8 <-> 29.2 |
+|---|---|
+| Prescale | |
+| 1 | 28.2 |
+| 2 | 23.6 |
+| 4 | 21.0 |
+| 8 | 20.0 |
+| 16 | 19.2 |
+| 32 | 18.7 |
+| 64 | 18.5 |
+| 128 | 18.4 |
+| 256 | 18.3 |
+|---|---|
+| all_disable() | 26.4 |
+|---|---|
+| power idle | 21.4-21.8 |
+| power down + watchdog  | 14.8-15.0 |
+|---|---|
+| No regulator | 9.6 - 9.8 |
+
 # Стандарты и Протоколы
 
 ## GPIO
@@ -153,7 +183,8 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 Используется для фильтрации переменного тока. Подробная [статья](http://easyelectronics.ru/kondensator-i-rc-cepochka.html). [Low-pass filter](https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D1%85_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82) фильтр нижних частот, отсекает все частоты ниже среза, аналогично [high-pass filter](https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B8%D1%85_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82) отсекает частоты выше среза.
 
 ## LC
-
+** TODO **
+## LR
 ** TODO **
 
 ## Tristate buffer
@@ -162,7 +193,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 ## Контроллер зарядки одной ячейки аккмулятора FC-57 на базе ТР4056
 Даташит [ТР4056](http://cds.linear.com/docs/en/datasheet/405642f.pdf)
-[Описание](http://we.easyelectronics.ru/part/zaryadnoe-ustroystvo-dlya-li-ion--na-tr4056.html), [пример](http://www.instructables.com/id/SOLAR-POWERED-ARDUINO-WEATHER-STATION/) использования с солнечной батареей. [Комментарии](https://forum.arduino.cc/index.php?topic=405875.0) по поводу одновременной зарядки нескольких ячеек. Заряжает постоянным током, посепенно повышая напряжение до 4.2v, по достижению 4.2v постепенно понижает ток до наступления отсечки, где-то на 4.18v. Такой профиль заряда называется CC/CV (constant current, constant voltage). Альтернативные [контроллеры](http://electro-shema.ru/chertezhi/zaryadka-dlya-li-ion-akkumulyatorov.html). Больше информации про [контроллеры](https://eax.me/diy-solar-powerbank/) заряда.
+[Описание](http://we.easyelectronics.ru/part/zaryadnoe-ustroystvo-dlya-li-ion--na-tr4056.html), [пример](http://www.instructables.com/id/SOLAR-POWERED-ARDUINO-WEATHER-STATION/) использования с солнечной батареей. [Комментарии](https://forum.arduino.cc/index.php?topic=405875.0) по поводу одновременной зарядки нескольких ячеек. Заряжает постоянным током, посепенно повышая напряжение до 4.2v, по достижению 4.2v постепенно понижает ток до наступления отсечки, где-то на 4.18v. Такой профиль заряда называется CC/CV (constant current, constant voltage). Альтернативные [контроллеры](http://electro-shema.ru/chertezhi/zaryadka-dlya-li-ion-akkumulyatorov.html). Больше информации про [контроллеры](https://eax.me/diy-solar-powerbank/) заряда. Обратите внимание, что есть [контроллеры](https://www.amazon.com/gp/product/B00QGVP944/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00QGVP944&linkCode=as2&tag=opegreene-20&linkId=V2KV7AHSF566NFLP) с защитой от разряда (overcharge-discharge/surge protection) в этом случае будет 4 выходных контакта пара на аккумулятор и пара на нагрузку.
 
 ## Повышающий конвертер на базе [mt3608](http://prom-electric.ru/media/MT3608.pdf)
 В поиске DC-DC step-up Boost Converter. На самой микросхеме преобразователя маркировка F16S. Работает в паре с контроллером заряда. [Али](https://ru.aliexpress.com/item/Free-Shipping-DC-3V-to-5V-USB-Output-charger-step-up-Power-Module-Mini-DC-DC/1610373693.html?ws_ab_test=searchweb0_0,searchweb201602_2_10152_10151_10065_10344_10068_10342_10343_10340_10341_10543_10696_10084_10083_10618_10307_10301_5711215_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_5711315_10621_10620_5722415_10125,searchweb201603_2,ppcSwitch_7&algo_expid=52ec73d4-780c-4dc1-8b03-0249d0b698f5-6&algo_pvid=52ec73d4-780c-4dc1-8b03-0249d0b698f5&priceBeautifyAB=0)
