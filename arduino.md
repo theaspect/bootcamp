@@ -214,9 +214,6 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 ## Инвертор Invertor DC-AC 
 4 транзистора и два сумматоров генерируют положительную и отрицательную часть синусоиы [Принцип работы](https://www.youtube.com/watch?v=qVeERT4nyz8)
 
-# Инструменты
-**TODO**
-
 # Провода и Коннекторы
 
 ## Rainbow ribbon wire
@@ -235,7 +232,23 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 <img src="https://i.ebayimg.com/images/g/N9oAAOSw5cNYUl~f/s-l300.jpg" width=200 />
 Адаптер для батарей вида PP3 (крона) в   5.5 мм x 2.1 мм
 
-# Химия
+# Инструменты
+<img src="https://ae01.alicdn.com/kf/HTB1zivrawmTBuNjy1Xbq6yMrVXaT/DIYFIX-4-7-Mini-Electronic-Pliers-Diagonal-Side-Cutting-Pliers-Cable-Wire-Cutter-Repair-Pry-Open.jpg_640x640q90.jpg" width=200 /> Бокорезы (Diagonal Side Cutter Plier) для откусывания торчащих кончиков
+
+# Пайка
+
+## Паяльные принадлежности (soldering iron)
+<img src="https://rukminim1.flixcart.com/image/832/832/j44h7680/soldering-iron/h/b/z/complete-kit-of-60w-soldering-iron-with-adjustable-temp-5x-bits-original-imaev2ptr9wzbs5f.jpeg?q=70" width=200 /> На Aliexpress огромное количество паяльников, в том числе регулируемых (adjustable) по температуре 200-450 C.
+
+С паяльником в комплекте могут идти сменные жала (soldering iron heads). Моей ошибкой было поставить самое тонкое в итоге паять было неудобно, поставил потолще.
+
+<img src="https://ae01.alicdn.com/kf/HTB1dvX2oCYH8KJjSspdq6ARgVXag/Useful-Solid-Metal-Base-Soldering-Iron-Bracket-Stand-Holder-Support-Station-Frame-Portable-for-Electrical-Working.jpg_640x640.jpg" width=200 /> К паяльнику обязательно нужна стойка (soldering iron frame/stand/holder)
+
+Для очистки жала (solder tip cleaners) используется либо целлюлозная губка (sponge), которая используется в намоченном состоянии, либо медная стружка (steel wire). Нсли не очищать жало, то сгоревший флюс будет ухудшать качество пайки.
+
+<img src="https://c.76.my/Malaysia/1set-hand-soldering-iron-stand-helping-magnifying-tool-small-chewhoung-1109-11-chewhoung@1.jpg" width=200> Третья рука (Helping Third Hand Clip Tool Soldering Stand), много разных видов, в том числе в 2 и 4 крокодилами, гибкие и жесткие. Используется, для удержания платы при пайке.
+
+Пинцет с очень тонким кончиком (Anti-static Curved/Straight-Tip Forceps/Tweezers), для пайки очень мелких (например smd) деталей.
 
 ## Флюсы
 Для удобства можно использовать канифоль, растворенную в спирте. Пузырек содержит кисточку.
