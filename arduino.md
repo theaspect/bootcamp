@@ -236,7 +236,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 <img src="https://ae01.alicdn.com/kf/HTB1UbBnLpXXXXXgaXXXq6xXFXXXD/5-pcs-lot-universal-Stripboard-Veroboard-Seul-C-t-7x5-cm.jpg_640x640.jpg" width=200 /> и с дорожками
 выполняются в множестве размеров
 
-## No solder
+## Беспаеная макетка No solder
 <img src="https://cdn.sparkfun.com/assets/3/d/f/a/9/518c0b34ce395fea62000002.jpg" width=200 /> Поставляются вместе с ардуиновскими наборами, стыкуются друг с другом. 
 
 # Провода и Коннекторы
