@@ -31,7 +31,7 @@
 | Arduino Uno <br/> [![Arduino Uno](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/150x/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_1.jpg)](https://store.arduino.cc/arduino-uno-rev3) | 5v | 6A 14D | [![uno](http://www.pighixxx.com/test/wp-content/uploads/2014/11/uno-300x214.png)](http://www.pighixxx.com/test/portfolio-items/uno/?portfolioID=314)| Средний вариант, китайская версия требует драйвера |
 | Arduino Nano <br/> [![Arduino Nano](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/150x/f8876a31b63532bbba4e781c30024a0a/a/0/a000005_iso.jpg)](https://store.arduino.cc/arduino-nano) | 5v | 8A 22D | [![nano](http://www.pighixxx.com/test/wp-content/uploads/2014/11/nano-300x214.png)](http://www.pighixxx.com/test/portfolio-items/nano/?portfolioID=314)| Очень миниатюрный, китайская версия требует драйвера (linux работает и так) |
 | ESP8266 ESP-01 <br/> [![esp-01](https://esp8266.ru/wp-content/images/esp8266-modules/thumbs/thumbs_ESP8266_ESP-01.jpg)](https://esp8266.ru/tag/esp-01/) | 3v3 |  | [![esp-01](http://www.pighixxx.com/test/wp-content/uploads/2015/09/ESP_Pinout_01_big-300x214.png)](http://www.pighixxx.com/test/portfolio-items/esp8266/?portfolioID=360) | Простейшая из варриаций ESP-8266, контроллер с WiFi, может понимать AT-команды, очень легко брикнуть, оживляется при помощи USB-TTL |
-| micro:bit <br/> [![microbit](http://microbit.org/images/microbit-front.png)](http://microbit.org/) |  |  | [![microbit](http://www.pighixxx.com/test/wp-content/uploads/2017/02/microbit_pinout_v10-300x214.png)](http://www.pighixxx.com/test/portfolio-items/microbit/?portfolioID=360) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) |
+| micro:bit <br/> [![microbit](http://microbit.org/images/microbit-front.png)](http://microbit.org/) |  |  | [![microbit](http://www.pighixxx.com/test/wp-content/uploads/2017/02/microbit_pinout_v10-300x214.png)](http://www.pighixxx.com/test/portfolio-items/microbit/?portfolioID=360) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/). [пример1](http://tech.microbit.org/bluetooth/apps-and-examples/) [пример2](https://lancaster-university.github.io/microbit-docs/) |
 | Circuit Playground Express <br/> [![cpe](https://cdn-shop.adafruit.com/145x109/3333-03.jpg)](https://www.adafruit.com/product/3333) |  |  | [![cpe](https://cdn-learn.adafruit.com/assets/assets/000/047/156/large1024/circuit_playground_Adafruit_Circuit_Playground_Express_Pinout.png?1507829017)](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) |
 | Onion Omega2 <br/> [![omega2](https://onion.io/wp-content/uploads/2017/01/o2-45-top-600x600.png)](https://onion.io) |  | D15 | <img src="https://github.com/OnionIoT/Onion-Media/raw/master/Pinouts/Omega2.png" width=100> | SoC на базе линукса, много разных [dock](https://onion.io/product-category/docks/) для подключения, в том числе Arduino |
 
@@ -148,6 +148,9 @@ I - ток светодиода (например 10 мА = 0.01 А или 20 м
 Для отображения данных использую библиотеку [NewLiquidCrystal](https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home).
 
 # Детали
+
+## Конденсатор
+[Объяснение](https://www.youtube.com/watch?v=WytU5uj78-4) зачем ставят электролитические и емкостные конденсаторы в параллель.
 
 ## Транзистор
 Используется для управления током. Делятся на биполярные и полевые. [Амперка](http://wiki.amperka.ru/%D1%81%D1%85%D0%B5%D0%BC%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0:%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80%D1%8B)
