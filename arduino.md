@@ -65,11 +65,24 @@
 |---|---|
 | No regulator | 9.6 - 9.8 |
 
+# Среды разработки
+
+## Mongoose-os
+
+Среда [разработки](https://mongoose-os.com), адаптированная для IoT и чипов ESP8266 и ESP32
+
 # Стандарты и Протоколы
+
+## MQTT
+
+Message Queuing Telemetry Transport. Отрытый протокол очереди сообщений, использующийся для IoT. Есть бесплатные брокер от [adafruit](io.adafruit.com).
 
 ## GPIO
 
+General Purpose Input-Output цифровой порт ввода-вывода, служит для передачи сообщений между цифровыми устройствами.
+
 ## PWM
+
 [Pulse width modulation](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%80%D0%BE%D1%82%D0%BD%D0%BE-%D0%B8%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F) позволяет уменьшать эффективное напряжение на цифровых выходах [arduino](https://www.arduino.cc/en/Tutorial/PWM) [amperka](http://wiki.amperka.ru/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82-arduino:%D1%88%D0%B8%D0%BC?s[]=pwm)
 
 ## PFM
