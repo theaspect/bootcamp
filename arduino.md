@@ -289,7 +289,13 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 Адаптер для батарей вида PP3 (крона) в   5.5 мм x 2.1 мм
 
 # Инструменты
+
+## Бокорезы
 <img src="https://ae01.alicdn.com/kf/HTB1zivrawmTBuNjy1Xbq6yMrVXaT/DIYFIX-4-7-Mini-Electronic-Pliers-Diagonal-Side-Cutting-Pliers-Cable-Wire-Cutter-Repair-Pry-Open.jpg_640x640q90.jpg" width=200 /> Бокорезы (Diagonal Side Cutter Plier) для откусывания торчащих кончиков
+
+## Мультиметр
+<img src="http://s-line.ru/upload/iblock/f77/f77188faacdc034b2fd0f2939ba4af1d.jpg" width=200 />
+Необходимы инструмент для измерения тока, напряжения, сопротивления. В комлекте идут щупы иголкой. Дополнительно можно приобрести щупы с крючком для проводов и крокодильчатые для более удобного измерения. hFE - измерение показателей транзисторов в 8-гнездовом разъеме current gain or amplification factor of a transistor при токе базы 10uA и Vce 2.8v. ->|- показывает падение напряжения на диоде. Прозвонка если сопротивление <20-30 Ohm вы услышите звук. Квадратная синусоида – сигнал 50hz 5v 50kOhm сопротивления между V и Com.
 
 # Пайка
 
@@ -300,6 +306,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 <img src="https://ae01.alicdn.com/kf/HTB1dvX2oCYH8KJjSspdq6ARgVXag/Useful-Solid-Metal-Base-Soldering-Iron-Bracket-Stand-Holder-Support-Station-Frame-Portable-for-Electrical-Working.jpg_640x640.jpg" width=200 /> К паяльнику обязательно нужна стойка (soldering iron frame/stand/holder)
 
+<img src="https://ae01.alicdn.com/kf/HTB1j3M1Xi0TMKJjSZFNq6y_1FXaB/FEITA-10pcs-pack-High-quality-599-029-Soldering-Iron-Tip-Cleaner-Cleaning-Wire-Sponge-Balls-for.jpg_640x640.jpg" width=200 />
 Для очистки жала (solder tip cleaners) используется либо целлюлозная губка (sponge), которая используется в намоченном состоянии, либо медная стружка (steel wire). Нсли не очищать жало, то сгоревший флюс будет ухудшать качество пайки.
 
 <img src="https://c.76.my/Malaysia/1set-hand-soldering-iron-stand-helping-magnifying-tool-small-chewhoung-1109-11-chewhoung@1.jpg" width=200> Третья рука (Helping Third Hand Clip Tool Soldering Stand), много разных видов, в том числе в 2 и 4 крокодилами, гибкие и жесткие. Используется, для удержания платы при пайке.
