@@ -70,7 +70,7 @@
 ## Mongoose-os
 
 Среда [разработки](https://mongoose-os.com), адаптированная для IoT и чипов ESP8266 и ESP32. Для прошивки необходимо в момент включения подключать GPIO-0 к GND. Обычный запуск работает и так, резисторы не нужны. <img src="http://2.bp.blogspot.com/-zjQRKTrXsDY/VhVl9FM1mxI/AAAAAAAAAB0/gvPSxU8LCgA/s640/ESP%2Bin%2Bflashing%2Bmode.jpg" width=200 />
-[подробнее](https://github.com/jandelgado/NodeMCU/wiki/ESP8266-01-overview-and-flashing-instructions). После прошивки пароль к AP будет Mongoose адрес http://192.168.4.1. ESP-01 доступно 1MB памяти, что очень ограничивает возможности Mongoose. В терминале нужно внимательно смотреть за логами, при ошибках скорее всег придется заливать прошивку заново.
+[подробнее](https://github.com/jandelgado/NodeMCU/wiki/ESP8266-01-overview-and-flashing-instructions) [инструкция от espressif](https://github.com/espressif/esptool/wiki/ESP8266-Boot-Mode-Selection).  После прошивки пароль к AP будет Mongoose адрес http://192.168.4.1. ESP-01 доступно 1MB памяти, что очень ограничивает возможности Mongoose. В терминале нужно внимательно смотреть за логами, при ошибках скорее всег придется заливать прошивку заново.
 
 # Стандарты и Протоколы
 
