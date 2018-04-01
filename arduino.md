@@ -265,7 +265,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 ## AWG (American Wire Gauge)
 
-Американский стандарт диаметров проводов [таблица](https://www.icsgroup.ru/library/consult/detail.php?ID=9329). Еще один документ описывающий провода 10 стандартных цветов [ul1007/ul1569](http://www.elandcables.com/electrical-cable-and-accessories/cables-by-standard/ul1007-cable-and-wire). В качестве перемычек на борде удобно использовать одножильные AWG22 (0.643mm/0.325mm2) и AWG24 (0.511mm/0.205mm2).
+Американский стандарт диаметров проводов [таблица](https://www.icsgroup.ru/library/consult/detail.php?ID=9329). Еще один документ описывающий провода 10 стандартных цветов [ul1007/ul1569](http://www.elandcables.com/electrical-cable-and-accessories/cables-by-standard/ul1007-cable-and-wire). В качестве перемычек на борде удобно использовать одножильные AWG22 (0.643mm/0.325mm2) и AWG24 (0.511mm/0.205mm2). Подойдет также КСПВ 4x0.64 Alarm Security Cable Paritet кабель для системы передач с оболочкой из винила.
 
 ## Rainbow ribbon wire
 <img src="http://www.electroncomponents.com/image/cache/data/misc/EC_10Wire_Riboon_Cable-500x500.jpg" width=200/> 
