@@ -65,6 +65,10 @@
 |---|---|
 | No regulator | 9.6 - 9.8 |
 
+## Прерывания
+
+Для экономии энергии и вычислительных ресурсов можно повесить прерывание на таймер или на [изменение](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/) сигнала на определенном пине. Отслеживается растущий, падающий, высокий, низкий и изменяющиеся сигналы. На один пин можно повесить только одно прерывание. Этот же механизм позволяет считывать длины сигналов через функцию [pulseIn](https://www.arduino.cc/reference/en/language/functions/advanced-io/pulsein/) для применения в PWM.
+
 # Среды разработки
 
 ## Mongoose-os
