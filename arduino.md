@@ -372,5 +372,5 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 <img src="http://gafferstapesolutions.com/wp-content/uploads/2015/11/Non-Reflective-Gaffer-Tape-e1446964479805.jpg" width=200 />
 gaffer tape или армированный скотч на тряпичной основе
 
-electrical/insulating tape обычная изолента
+electrical/insulating tape обычная изолента, [цвета](https://en.wikipedia.org/wiki/Electrical_tape) используются для кодирования проводов.
 
