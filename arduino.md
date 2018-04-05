@@ -25,6 +25,8 @@
 
 # Контроллеры
 
+[Более подробная таблица](https://www.arduino.cc/en/Products/Compare)
+
 | Контроллер | Вольтаж | Пины | Схема | Комментарий |
 |---|---|---|---|---|
 | Arduino Mega <br/> [![Arduino Mega](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/150x/f8876a31b63532bbba4e781c30024a0a/a/0/a000067_iso_.jpg)](https://store.arduino.cc/arduino-mega-2560-rev3) | 5v | 16A 54D | [![mega](http://www.pighixxx.com/test/wp-content/uploads/2014/11/mega-300x214.png)](http://www.pighixxx.com/test/portfolio-items/mega/?portfolioID=314)| Самый жирный из ардуин, проблем с подключением не было |
