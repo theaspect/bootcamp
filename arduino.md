@@ -355,6 +355,8 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 <img src="https://ae01.alicdn.com/kf/HTB1j3M1Xi0TMKJjSZFNq6y_1FXaB/FEITA-10pcs-pack-High-quality-599-029-Soldering-Iron-Tip-Cleaner-Cleaning-Wire-Sponge-Balls-for.jpg_640x640.jpg" width=200 />
 Для очистки жала (solder tip cleaners) используется либо целлюлозная губка (sponge), которая используется в намоченном состоянии, либо медная стружка (steel wire). Нсли не очищать жало, то сгоревший флюс будет ухудшать качество пайки.
 
+<img src="https://statics3.seeedstudio.com/product/Desoldering%20Wick_01.jpg" width=200 /> Для впитывания олова используется desoldering wire.
+
 <img src="https://c.76.my/Malaysia/1set-hand-soldering-iron-stand-helping-magnifying-tool-small-chewhoung-1109-11-chewhoung@1.jpg" width=200 /> Третья рука (Helping Third Hand Clip Tool Soldering Stand), много разных видов, в том числе в 2 и 4 крокодилами, гибкие и жесткие. Используется, для удержания платы при пайке.
 
 Пинцет с очень тонким кончиком (Anti-static Curved/Straight-Tip Forceps/Tweezers), для пайки очень мелких (например smd) деталей.
