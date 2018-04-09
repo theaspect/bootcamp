@@ -383,3 +383,5 @@ gaffer tape или армированный скотч на тряпичной �
 
 electrical/insulating tape обычная изолента, [цвета](https://en.wikipedia.org/wiki/Electrical_tape) используются для кодирования проводов.
 
+## Термостойкий коврик, Heat Insulation Silicone Pad Desk Mat
+<img src="https://img.fasttechcdn.com/745/7455700/7455700-2.jpg" width=200 />
