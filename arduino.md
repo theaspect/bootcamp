@@ -350,7 +350,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 С паяльником в комплекте могут идти сменные жала (soldering iron heads). Моей ошибкой было поставить самое тонкое в итоге паять было неудобно, поставил потолще.
 
-<img src="https://ae01.alicdn.com/kf/HTB1dvX2oCYH8KJjSspdq6ARgVXag/Useful-Solid-Metal-Base-Soldering-Iron-Bracket-Stand-Holder-Support-Station-Frame-Portable-for-Electrical-Working.jpg_640x640.jpg" width=200 /> К паяльнику обязательно нужна стойка (soldering iron frame/stand/holder)
+<img src="https://ae01.alicdn.com/kf/HTB1dvX2oCYH8KJjSspdq6ARgVXag/Useful-Solid-Metal-Base-Soldering-Iron-Bracket-Stand-Holder-Support-Station-Frame-Portable-for-Electrical-Working.jpg_640x640.jpg" width=200 /> К паяльнику обязательно нужна стойка (soldering iron frame/stand/holder). Есть компактные циркониевые стойки <img src="https://images-na.ssl-images-amazon.com/images/I/41sZ0vNvdUL._SY463_.jpg" width=200 />
 
 <img src="https://ae01.alicdn.com/kf/HTB1j3M1Xi0TMKJjSZFNq6y_1FXaB/FEITA-10pcs-pack-High-quality-599-029-Soldering-Iron-Tip-Cleaner-Cleaning-Wire-Sponge-Balls-for.jpg_640x640.jpg" width=200 />
 Для очистки жала (solder tip cleaners) используется либо целлюлозная губка (sponge), которая используется в намоченном состоянии, либо медная стружка (steel wire). Нсли не очищать жало, то сгоревший флюс будет ухудшать качество пайки.
