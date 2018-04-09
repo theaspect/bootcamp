@@ -318,6 +318,11 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 <img src="https://i.ebayimg.com/images/g/N9oAAOSw5cNYUl~f/s-l300.jpg" width=200 />
 Адаптер для батарей вида PP3 (крона) в   5.5 мм x 2.1 мм
 
+## Сокет, слот, 80 зшт 1.27mm Pitch Right Angle Card Edge Connector, cartridge slot
+
+<img src="https://www.toby.co.uk/uploads/images/large/2867.jpg" width=200 />
+Специальный разъем для подсоединения целой платы. [Отличаются](https://www.toby.co.uk/board-to-board-pcb-connectors/card-edge-connetors/vec-valcon-127mm-pitch-right-angle-card-edge-connector/) шагом разъема 1.27mm/0.05" и количеством пинов. Пины могут быть выведены одинково с двух сторон.
+
 # Инструменты
 
 ## Бокорезы
