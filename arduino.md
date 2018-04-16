@@ -133,6 +133,8 @@ Transistor-transistor logic. Общее наименование подключ�
 RFM69 [другая модуляция](https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/overview).
 [aliexpress](https://ru.aliexpress.com/store/1795152)
 
+SX1276/77/78/79 <-> RFM95/96/97/98(W)
+
 ## Pull-up Pull-down
 
 # Распиновка
