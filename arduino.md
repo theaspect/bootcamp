@@ -283,7 +283,8 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 <img src="https://i.ebayimg.com/images/g/NeEAAOSwJ7RYYk5w/s-l300.jpg" width=200 /> 4.5-28V на вход и 1.8-26V на выход. Может быть фиксированный либо регулируемый при помощи потенциометра
 
 ## Драйвер для двигателей [TB6612FNG](https://www.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf)
-<img src="https://camo.githubusercontent.com/80ad6f9f1a855da5c081bfeeb105beaf0ac08e04/68747470733a2f2f63646e2e737061726b66756e2e636f6d2f2f6173736574732f70617274732f332f312f352f372f30393435372d3031622e6a7067" />
+<img src="https://camo.githubusercontent.com/80ad6f9f1a855da5c081bfeeb105beaf0ac08e04/68747470733a2f2f63646e2e737061726b66756e2e636f6d2f2f6173736574732f70617274732f332f312f352f372f30393435372d3031622e6a7067" width=200 />
+
 [Библиотека](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library) позволяет управлять двумя двигателями током до 1.2А. Вращая двигатели раздельно CW (ClockWise) и CCW (CounterClockWise), тормозя и останавливая. На всё 7 пинов.
 
 ## Блок питания AC-DC transformer, AC Adapter, Rectifier
