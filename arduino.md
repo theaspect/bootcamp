@@ -131,7 +131,7 @@ Transistor-transistor logic. Общее наименование подключ�
 
 Чипы стандарта LoRa: SX1276 (138 - 1020 MHz), SX1277 (138 - 1020 MHz), SX1277 (138 - 510 MHz).
 RFM69 [другая модуляция](https://learn.adafruit.com/adafruit-rfm69hcw-and-rfm96-rfm95-rfm98-lora-packet-padio-breakouts/overview).
-[aliexpress](https://ru.aliexpress.com/store/1795152)
+[aliexpress](https://ru.aliexpress.com/store/1795152). Универсальный модуль [433/470/868/915MHz RHF76-052 SX1276 LoRa Module with Ultra Long Distance](https://www.elecrow.com/433-470-868-915mhz-rhf76-052-sx1276-lora-module-with-ultra-long-distance.html)  для всех частот но стоит $13.
 
 SX1276/77/78/79 <-> RFM95/96/97/98(W)
 
@@ -241,17 +241,28 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 ## 9g servo
 ![servo](http://wiki.keyestudio.com/images/3/31/7723.png) При установке угла в 180? **TODO** серво-привод начинал непрерывно вращаться
 
-## CMOS Камера OV7670
+## CMOS Камера OV7670 (может быть с AL433 FIFO)
+
+<img src="http://wp.sps.esy.es/wp-content/uploads/2016/04/HMC3_bufnal.jpg" width=200 />
+
 Не пытался подключить. Есть книга на 200 страниц
 [Beginning Arduino ov7670 Camera Development](https://www.amazon.com/Beginning-Arduino-ov7670-Camera-Development/dp/1512357987).
 При этом есть две версии с Framebuffer и без, та которая с буфером помечена как FIFO и стоит в несколько раз дороже.
-Отличительной особенностью является микросхема Averlogic AL4228-PBF, которая упрощает работу.
+Отличительной особенностью является микросхема Averlogic AL4228-PBF, которая упрощает работу. Поток данных быстро сохраняется в буфер, потом можно медленно считать. Описание [подключения](http://wp.sps.esy.es/spselectro/%D1%81%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-%D0%B2%D0%B8/) к arduino mini без буфера. Еще одно [описание](http://www.instructables.com/id/OV7670-Without-FIFO-Very-Simple-Framecapture-With-/).
 
 ## Ультразвуковой сенсор HC-SR04
 
 <img src="https://cdn.sparkfun.com//assets/parts/1/1/6/6/8/13959-01a.jpg" width=200 />
 
 Работает на расстоянии 2-400cm. Управляется 4 пинами VCC, GND, Trig, Echo. [Библиотека](https://playground.arduino.cc/Code/NewPing)
+
+## Мультиплексор (MUX) CD74HC4067
+
+<img src="https://www.elecrow.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/14393620000_1.jpg" width=200 />
+
+[Вики](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BE%D1%80_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)
+
+Позволяет 5 пинами (4 цифровой для выбора устройства и 1 АЦП для передачи данных) управлять 16-ю устройствами.
 
 # Модули
 
@@ -291,7 +302,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 ## Драйвер для двигателей [TB6612FNG](https://www.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf)
 <img src="https://camo.githubusercontent.com/80ad6f9f1a855da5c081bfeeb105beaf0ac08e04/68747470733a2f2f63646e2e737061726b66756e2e636f6d2f2f6173736574732f70617274732f332f312f352f372f30393435372d3031622e6a7067" width=200 />
 
-[Библиотека](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library) [подключение](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide) позволяет управлять двумя двигателями током до 1.2А. Вращая двигатели раздельно CW (ClockWise) и CCW (CounterClockWise), тормозя и останавливая. На всё 7 пинов.
+[Библиотека](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library) [подключение](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide) позволяет управлять двумя двигателями током до 1.2А. Вращая двигатели раздельно CW (ClockWise) и CCW (CounterClockWise), тормозя и останавливая. На всё 7 пинов. [Вики](http://wiki.sunfounder.cc/index.php?title=TB6612_DC_Motor_Driver_Module) с библиотекой.
 
 ## Блок питания AC-DC transformer, AC Adapter, Rectifier
  
@@ -350,8 +361,12 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 <img src="https://ae01.alicdn.com/kf/HTB1jRtPQXXXXXaDXXXXq6xXFXXXq/670pcs-set-2-54mm-Jumper-Wire-Cable-Pin-Header-Dupont-Connector-Dupont-Plastic-Shell-Plug-Dupont.jpg_640x640.jpg" width=200> <img src="https://www.bluetin.io/wp-content/uploads/2017/07/sn-28b-dupont-terminal-crimping-tool-kit.jpg" width=200 />
 Коннекторы которые идут с Arduino в виде цветных проводов, как раз относятся к этому стандарту. Можно купить отдельно цветной жгут и отдельно коннекторы. Обжимаются специальным инструментом Crimper Tool с характерным M-образным профилем. Можно обжать пассатижами, но будет менее аккуратно. Разъемы группируются от 1 до 10, мама, папа и папа для распайки на плате. Коннекторы не фиксируются.
 
-## XH2 Pitch terminal
-<img src="https://ae01.alicdn.com/kf/HTB1F4PkOpXXXXcIXFXXq6xXFXXXo/40-Sets-Kit-in-box-XH2-54-Right-Angle-2p-3p-4p-5pin-2-54mm-Pitch.jpg_640x640.jpg" width=200 /> Коннекторы с защелками, могут быть очень тугими. Для обжимки используется crimping tool, можно обжать пассатижами. Идут комлпектами от 2 до 5 пинов.
+## XH2P Pitch terminal, JST Connectors
+
+<img src="http://i.imgur.com/6mTsil8l.png" width=200 />
+<img src="https://ae01.alicdn.com/kf/HTB1F4PkOpXXXXcIXFXXq6xXFXXXo/40-Sets-Kit-in-box-XH2-54-Right-Angle-2p-3p-4p-5pin-2-54mm-Pitch.jpg_640x640.jpg" width=200 />
+
+Коннекторы с защелками, могут быть очень тугими. Для обжимки используется crimping tool, можно обжать пассатижами. Идут комлпектами от 2 до 5 пинов. Вики [перечисление](https://en.wikipedia.org/wiki/JST_connector) всех серий.
 
 ## 9V Clip Barrel Male
 <img src="https://i.ebayimg.com/images/g/N9oAAOSw5cNYUl~f/s-l300.jpg" width=200 />
