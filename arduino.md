@@ -283,13 +283,13 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 Позволяет 5 пинами (4 цифровой для выбора устройства и 1 АЦП для передачи данных) управлять 16-ю устройствами.
 
-## Синтезатор AD9833/GY-9833 AD9850
+## Цифровой Синтезатор AD9833/GY-9833 AD9850 DDS/[Direct Digital Synthesizer](https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D0%B7%D0%B0%D1%82%D0%BE%D1%80))
 
 Позволяет генерировать прямоугольный/треугольный/синусоиду сигнал до 25МГц (40МГц для варианта 9850) с точностью до  0.1Гц. [Описание](http://microsin.net/adminstuff/hardware/ad9833-programmable-waveform-generator.html)
 
 <img src="http://robert.butera.org/wp-content/uploads/2015/11/dds-pins.jpg" width=200 />
 
-## Синтезатор [ADF4351](https://www.sv1afn.com/adf4351m.html)
+## Аналоговвый Синтезатор [ADF4351](https://www.sv1afn.com/adf4351m.html) PLL/[Phase Locked Loop](https://en.wikipedia.org/wiki/Phase-locked_loop)
 
 <img src="https://nebula.wsimg.com/30602c5cb12ba89fd11a3c3315e9a443?AccessKeyId=DAA432FA80C5DABC0234&disposition=0&alloworigin=1" width=200 />
 
