@@ -31,6 +31,8 @@
 2. [Метеостанция на солнечной батарее](http://www.instructables.com/id/SOLAR-POWERED-ARDUINO-WEATHER-STATION/)
 3. [Ардуино на солнечной батарее](https://create.arduino.cc/projecthub/igorF2/solar-charged-battery-powered-arduino-uno-645d89)
 4. [Низкое потребление энергии на ESP32/ESP8266](https://hackaday.com/2017/09/24/datalogger-uses-esp32-and-esp8266-low-power-modes/)
+5. [Генератор синусоиды на 555](http://www.learningaboutelectronics.com/Articles/Sine-wave-generator-circuit-with-a-555-timer.php)
+6. [Измеритель ёмкости на Arduino при помощи RC контура](https://www.arduino.cc/en/Tutorial/CapacitanceMeter)
 
 # Контроллеры
 
