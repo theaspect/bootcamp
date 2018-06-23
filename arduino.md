@@ -273,6 +273,12 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 <img src="https://www.elecrow.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/4/14393620000_1.jpg" width=200 />
 
+## Ёмкостный сенсор [MPR121](https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/pinouts)
+
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/018/427/large1024/sensors_pinout.jpg?1406242331" width=200>
+
+Позволяет подключить до 12 площадок и управляется по интерфейсу I2C
+
 [Вики](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BE%D1%80_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)
 
 Позволяет 5 пинами (4 цифровой для выбора устройства и 1 АЦП для передачи данных) управлять 16-ю устройствами.
@@ -354,7 +360,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 Работает по интерфейсу SPI и позволяется объединать в цепочку до 8 панелей
 
-# Serial bluetooth BK3231
+## Serial bluetooth BK3231
 Описание AT [команд](https://forum.allaboutcircuits.com/threads/unknown-bluetooth-module-with-bk3231-chip.123933/)
 
 # Прототипные/макетные платы (prototype breadboard)
