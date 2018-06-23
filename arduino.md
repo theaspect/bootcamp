@@ -25,6 +25,13 @@
 
 * [Электроника для начинающих 2-е издание](https://www.ozon.ru/context/detail/id/8752090/)
 
+# Интересные проекты
+
+1. [Измеритель потребленной энергии](http://www.instructables.com/id/Arduino-Energy-Meter-V20/?utm_source=dlvr.it&utm_medium=twitter)
+2. [Метеостанция на солнечной батарее](http://www.instructables.com/id/SOLAR-POWERED-ARDUINO-WEATHER-STATION/)
+3. [Ардуино на солнечной батарее](https://create.arduino.cc/projecthub/igorF2/solar-charged-battery-powered-arduino-uno-645d89)
+4. [Низкое потребление энергии на ESP32/ESP8266](https://hackaday.com/2017/09/24/datalogger-uses-esp32-and-esp8266-low-power-modes/)
+
 # Контроллеры
 
 [Более подробная таблица](https://www.arduino.cc/en/Products/Compare)
@@ -34,7 +41,7 @@
 | Arduino Mega <br/> [![Arduino Mega](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/150x/f8876a31b63532bbba4e781c30024a0a/a/0/a000067_iso_.jpg)](https://store.arduino.cc/arduino-mega-2560-rev3) | 5v | 16A 54D | [![mega](http://www.pighixxx.com/test/wp-content/uploads/2014/11/mega-300x214.png)](http://www.pighixxx.com/test/portfolio-items/mega/?portfolioID=314)| Самый жирный из ардуин, проблем с подключением не было |
 | Arduino Uno <br/> [![Arduino Uno](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/150x/f8876a31b63532bbba4e781c30024a0a/a/0/a000066_front_1.jpg)](https://store.arduino.cc/arduino-uno-rev3) | 5v | 6A 14D | [![uno](http://www.pighixxx.com/test/wp-content/uploads/2014/11/uno-300x214.png)](http://www.pighixxx.com/test/portfolio-items/uno/?portfolioID=314)| Средний вариант, китайская версия требует драйвера |
 | Arduino Nano <br/> [![Arduino Nano](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/150x/f8876a31b63532bbba4e781c30024a0a/a/0/a000005_iso.jpg)](https://store.arduino.cc/arduino-nano) | 5v | 8A 22D | [![nano](http://www.pighixxx.com/test/wp-content/uploads/2014/11/nano-300x214.png)](http://www.pighixxx.com/test/portfolio-items/nano/?portfolioID=314)| Очень миниатюрный, китайская версия требует драйвера (linux работает и так) |
-| ESP8266 ESP-01 <br/> [![esp-01](https://esp8266.ru/wp-content/images/esp8266-modules/thumbs/thumbs_ESP8266_ESP-01.jpg)](https://esp8266.ru/tag/esp-01/) | 3v3 |  | [![esp-01](http://www.pighixxx.com/test/wp-content/uploads/2015/09/ESP_Pinout_01_big-300x214.png)](http://www.pighixxx.com/test/portfolio-items/esp8266/?portfolioID=360) | Простейшая из варриаций ESP-8266, контроллер с WiFi, может понимать AT-команды, очень легко брикнуть, оживляется при помощи USB-TTL. Для прошивки необходимо знать размер флеш-памяти: если чип pn25f08 – это 1MB |
+| ESP8266 ESP-01 <br/> [![esp-01](https://esp8266.ru/wp-content/images/esp8266-modules/thumbs/thumbs_ESP8266_ESP-01.jpg)](https://esp8266.ru/tag/esp-01/) | 3v3 |  | [![esp-01](http://www.pighixxx.com/test/wp-content/uploads/2015/09/ESP_Pinout_01_big-300x214.png)](http://www.pighixxx.com/test/portfolio-items/esp8266/?portfolioID=360) | Простейшая из варриаций ESP-8266, контроллер с WiFi, может понимать AT-команды, очень легко брикнуть, оживляется при помощи USB-TTL. Для прошивки необходимо знать размер флеш-памяти: если чип pn25f08 – это 1MB. [Официальная Wiki](https://github.com/espressif/ESP8266_AT/wiki), [на русском](https://esp8266.ru/esp8266-at-commands-v022/) |
 | micro:bit <br/> [![microbit](http://microbit.org/images/microbit-front.png)](http://microbit.org/) |  |  | [![microbit](http://www.pighixxx.com/test/wp-content/uploads/2017/02/microbit_pinout_v10-300x214.png)](http://www.pighixxx.com/test/portfolio-items/microbit/?portfolioID=360) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/). [пример1](http://tech.microbit.org/bluetooth/apps-and-examples/) [пример2](https://lancaster-university.github.io/microbit-docs/) |
 | Circuit Playground Express <br/> [![cpe](https://cdn-shop.adafruit.com/145x109/3333-03.jpg)](https://www.adafruit.com/product/3333) |  |  | [![cpe](https://cdn-learn.adafruit.com/assets/assets/000/047/156/large1024/circuit_playground_Adafruit_Circuit_Playground_Express_Pinout.png?1507829017)](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts) | Детский контроллер, у китайцев нет, программируется как [scratch](https://makecode.com/) [https://github.com/adafruit/Adafruit_CircuitPlayground](C++ и Arduino)|
 | Onion Omega2 <br/> [![omega2](https://onion.io/wp-content/uploads/2017/01/o2-45-top-600x600.png)](https://onion.io) |  | D15 | <img src="https://github.com/OnionIoT/Onion-Media/raw/master/Pinouts/Omega2.png" width=100> | SoC на базе Linux Embedded Development Environment (Open WRT), много разных [dock](https://onion.io/product-category/docks/) для подключения, в том числе Arduino |
@@ -169,6 +176,12 @@ I - ток светодиода (например 10 мА = 0.01 А или 20 м
 
 ## Датчик влажности емкостный
 <img src="https://images-na.ssl-images-amazon.com/images/I/61zUklVDaKL._SY355_.jpg" width=100/> используется переменный ток чтобы измерять влажность почвы без непосредственного контакта за счет изменения диэлектрической проницаемости почвы. [Стоит дороже](https://ru.aliexpress.com/wholesale?SearchText=+capacitive+soil+moisture+sensor) но должен быть менее подвержен коррозии. Самодельная [версия](http://gygrosensor.ucoz.ru/publ/sensor_80mhz/1-1-0-20) на базе 80Mhz [кварцевого генератора](https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D1%80%D1%86%D0%B5%D0%B2%D1%8B%D0%B9_%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80)
+
+## Погодный датчик [BME280](https://mysku.ru/blog/aliexpress/52057.html)
+
+<img src="https://ext.mysku-st.ru/250s/ae01.alicdn.com/kf/HTB1XpknQXXXXXbJaXXXq6xXFXXXa/High-Accuracy-BME280-Digital-Sensor-Temperature-Humidity-Barometric-Pressure-Sensor-Module-GY-BME280-I2C-SPI-1.jpg" width=200 />
+
+В отличие от DHT11 обладает гораздо большим диапазоном измерения -40…+85 °C, 0…100 % rel. humidity, 300…1100 hPa. Работает по интерфейсу I2C.
 
 ## Датчик дыма
 ![Gas sendor](http://wiki.keyestudio.com/images/0/01/7629.png) при работе нагревается
