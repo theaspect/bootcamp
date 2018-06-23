@@ -429,6 +429,8 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 # Пайка
 
+[Инструкция](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering) от SparkFun
+
 ## Паяльные принадлежности (soldering iron)
 <img src="https://rukminim1.flixcart.com/image/832/832/j44h7680/soldering-iron/h/b/z/complete-kit-of-60w-soldering-iron-with-adjustable-temp-5x-bits-original-imaev2ptr9wzbs5f.jpeg?q=70" width=200 /> На Aliexpress огромное количество паяльников, в том числе регулируемых (adjustable) по температуре 200-450 C.
 
