@@ -316,6 +316,14 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 [Библиотека](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library) [подключение](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide) позволяет управлять двумя двигателями током до 1.2А. Вращая двигатели раздельно CW (ClockWise) и CCW (CounterClockWise), тормозя и останавливая. На всё 7 пинов. [Вики](http://wiki.sunfounder.cc/index.php?title=TB6612_DC_Motor_Driver_Module) с библиотекой.
 
+## Драйвер для двигателей [L298](https://www.theengineeringprojects.com/2017/07/introduction-to-l298.html)
+
+<img src="https://www.theengineeringprojects.com/wp-content/uploads/2017/07/L298-Pinout.jpg" width=200 />
+
+## Драйвер для двигателей LV8406T
+
+[Сравнение с предыдущими драйверами](https://forum.makeblock.com/t/the-review-of-dc-motor-drivers-l298n-tb6612fng-and-lv8406t/372/5)
+
 ## Блок питания AC-DC transformer, AC Adapter, Rectifier
  
 Преобразование идет в несколько этапов: сначала катушками индуктивности напряжение понижается до необходимого, затем через диодный мост выпрямляется, после этого сглаживается при помощи конденсаторов. [Принцип работы](https://www.youtube.com/watch?v=VZctTmmS-gA)
