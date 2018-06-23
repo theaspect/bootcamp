@@ -289,6 +289,12 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 <img src="http://robert.butera.org/wp-content/uploads/2015/11/dds-pins.jpg" width=200 />
 
+## Синтезатор [ADF4351](https://www.sv1afn.com/adf4351m.html)
+
+<img src="https://nebula.wsimg.com/30602c5cb12ba89fd11a3c3315e9a443?AccessKeyId=DAA432FA80C5DABC0234&disposition=0&alloworigin=1" width=200 />
+
+Позволяет генерировать частоты в диапазоне 35-4400МГц
+
 # Модули
 
 ## RC-контур Resistor + Capacitor
