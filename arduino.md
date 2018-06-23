@@ -348,6 +348,12 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 7-сегментные дисплеи это 8 без точки. [Описание](https://playground.arduino.cc/Main/TM1637). Управляется при помощи 4 пинов CLC, DIO, VCC, GND. [Библиотека](https://github.com/avishorp/TM1637)
 
+## Драйвер для матриц 16х24 [HT1632C](https://www.adafruit.com/product/555)
+
+<img src="https://cdn-shop.adafruit.com/970x728/555-00.jpg" width=200>
+
+Работает по интерфейсу SPI и позволяется объединать в цепочку до 8 панелей
+
 # Serial bluetooth BK3231
 Описание AT [команд](https://forum.allaboutcircuits.com/threads/unknown-bluetooth-module-with-bk3231-chip.123933/)
 
