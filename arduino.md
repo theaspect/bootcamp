@@ -277,7 +277,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 <img src="https://cdn-learn.adafruit.com/assets/assets/000/018/427/large1024/sensors_pinout.jpg?1406242331" width=200>
 
-Позволяет подключить до 12 площадок и управляется по интерфейсу I2C
+Позволяет подключить до 12 площадок и управляется по интерфейсу I2C. [Инструкция](https://learn.sparkfun.com/tutorials/mpr121-hookup-guide) по подключению
 
 [Вики](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BE%D1%80_(%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0)
 
