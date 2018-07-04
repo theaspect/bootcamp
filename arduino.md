@@ -34,6 +34,7 @@
 5. [Генератор синусоиды на 555](http://www.learningaboutelectronics.com/Articles/Sine-wave-generator-circuit-with-a-555-timer.php)
 6. [Измеритель ёмкости на Arduino при помощи RC контура](https://www.arduino.cc/en/Tutorial/CapacitanceMeter)
 7. [Станция для измерения скорости и направления ветра](https://habr.com/post/404385/)
+8. [Полнодуплексная радиосвязь](http://www.instructables.com/id/Arduino-NRF24L01-Simple-Bidirectional-Wireless-Com/)
 
 # Контроллеры
 
