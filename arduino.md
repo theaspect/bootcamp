@@ -132,6 +132,10 @@ General Purpose Input-Output цифровой порт ввода-вывода, 
 
 [Pulse frequency modulation](https://en.wikipedia.org/wiki/Pulse-frequency_modulation) альтернативный вид модуляции. Используется в преобразователях напряжения.
 
+## DMA [Direct Memory Access](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF_%D0%BA_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8)
+
+режим обмена данными между устройствами компьютера или же между устройством и основной памятью, в котором центральный процессор (ЦП) не участвует. Так как данные не пересылаются в ЦП и обратно, скорость передачи увеличивается.
+
 ## Serial UART USART
 
 [Universal asynchronous receiver-transmitter](https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA) вариант universal synchronous and asynchronous receiver-transmitter. Обычный последовательный порт для связи между устройствами. Обязательно необходимо согласовать скорость 300; 600; 1200; 2400; 4800; 9600; 19200; 38400; 57600; 115200; 230400; 460800; 921600. [arduino](https://www.arduino.cc/reference/en/language/functions/communication/serial/) Ардуино может иметь аппаратный порт, а может эмулировать. Во втором случае больших скоростей передачи данных не добиться. Можно купить usb-ttl uart adapter для прошивки устройств. 
