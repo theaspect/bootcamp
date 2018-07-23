@@ -143,6 +143,9 @@ General Purpose Input-Output цифровой порт ввода-вывода, 
 ## TTL
 Transistor-transistor logic. Общее наименование подключения между транзисторами и микросхемами.
 
+## CAN BUS [Controller Area Network](https://ru.wikipedia.org/wiki/Controller_Area_Network)
+cтандарт промышленной сети, ориентированный, прежде всего, на объединение в единую сеть различных исполнительных устройств и датчиков. Режим передачи — последовательный, широковещательный, пакетный. настоящее время широко распространён в промышленной автоматизации, технологиях «умного дома», автомобильной промышленности и многих других областях. Стандарт для автомобильной автоматики.
+
 ## SPI
 [Serial Peripheral Interface](https://ru.wikipedia.org/wiki/Serial_Peripheral_Interface) шина для подключения устройств. Имеются [несколько](https://www.maximintegrated.com/en/app-notes/index.mvp/id/3947) вариантов подключения в простейшем на каждое устройство выделяется по 1 пину для адресации. [амперка](http://wiki.amperka.ru/js:spi) [arduino](https://www.arduino.cc/en/Reference/SPI)
 
