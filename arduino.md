@@ -51,7 +51,7 @@
 | Onion Omega2 <br/> [![omega2](https://onion.io/wp-content/uploads/2017/01/o2-45-top-600x600.png)](https://onion.io) |  | D15 | <img src="https://github.com/OnionIoT/Onion-Media/raw/master/Pinouts/Omega2.png" width=100> | SoC на базе Linux Embedded Development Environment (Open WRT), много разных [dock](https://onion.io/product-category/docks/) для подключения, в том числе Arduino |
 | Adafruit M4 Express [![M4 Express](https://cdn-shop.adafruit.com/970x728/3382-06.jpg)](https://www.adafruit.com/product/3382) | | | | Контроллер от Adafruit в формфакторе Arduino |
 | Sino:bit V1.0 [![Sino:bit](https://www.elecrow.com/media/catalog/product/cache/1/small_image/150x150/9df78eab33525d08d6e5fb8d27136e95/s/i/sinobit_smiling_face_2.jpg)](https://www.elecrow.com/sino-bit-v1-0.html) | | | | Китайская версия mirco:bit отличающаяся большим количеством светодиодов в матрице чтобы отображать иероглифы |
-| Teency LC [![teency](https://www.pjrc.com/store/teensylc_front.jpg)](https://www.pjrc.com/store/teensylc.html) | | | | Teensy-LC  features an ARM Cortex-M0+ processor at 48 MHz, 62K Flash, 8K RAM, 12 bit analog input & output, hardware Serial, SPI & I2C, USB, and a total of 27 I/O pins. |
+| Teency LC [![teency](https://www.pjrc.com/store/teensylc_front.jpg)](https://www.pjrc.com/store/teensylc.html) | | | [![tlc](https://www.pjrc.com/teensy/teensylc_front_pinout.png)] | Teensy-LC  features an ARM Cortex-M0+ processor at 48 MHz, 62K Flash, 8K RAM, 12 bit analog input & output, hardware Serial, SPI & I2C, USB, and a total of 27 I/O pins. |
 
 ## Чипы
 
