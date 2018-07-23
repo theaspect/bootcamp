@@ -536,3 +536,7 @@ electrical/insulating tape обычная изолента, [цвета](https:/
 
 ## Термостойкий коврик, Heat Insulation Silicone Pad Desk Mat
 <img src="https://img.fasttechcdn.com/745/7455700/7455700-2.jpg" width=200 />
+
+# Ссылки
+
+* [Various microprocessor layouts](https://docs.google.com/spreadsheets/d/1LSi0c17iqtvpKuNSYksMG306_FpWdJcniSRR6aGNNYQ/edit#gid=11)
