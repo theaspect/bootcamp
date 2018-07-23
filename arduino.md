@@ -94,7 +94,7 @@
 
 ## USB HID Human Input Device
 
-Некоторые версии arduino имеют встроенную [поддержку](https://www.arduino.cc/en/Reference/HID) HID, т.е. при подключении к компьютеру они будут определяться как мышь, клавиатура или джойстик. Для версий которые не поддерживают HID можно спаять переходник из трёх резисторов и двух диодов зенера и использовать библиотеку [v-usb](https://www.obdev.at/products/vusb/index.html). [Подробная](http://janaxelson.com/hidpage.htm) документация по созданию собственных устройств.
+Некоторые версии arduino имеют встроенную [поддержку](https://www.arduino.cc/en/Reference/HID) HID, т.е. при подключении к компьютеру они будут определяться как мышь, клавиатура или джойстик. Для версий которые не поддерживают HID можно спаять переходник из трёх резисторов и двух диодов зенера и использовать библиотеку [v-usb](https://www.obdev.at/products/vusb/index.html). [Подробная](http://janaxelson.com/hidpage.htm) документация по созданию собственных устройств. Работа на примере [STM32](https://habr.com/post/208026/)
 
 ## [Источники питания](http://www.thebox.myzen.co.uk/Tutorial/Power_Supplies.html)
 
