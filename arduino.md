@@ -538,7 +538,11 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 <img src="https://c.76.my/Malaysia/1set-hand-soldering-iron-stand-helping-magnifying-tool-small-chewhoung-1109-11-chewhoung@1.jpg" width=200 /> Третья рука (Helping Third Hand Clip Tool Soldering Stand), много разных видов, в том числе в 2 и 4 крокодилами, гибкие и жесткие. Используется, для удержания платы при пайке.
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/61gSsV38eQL._SX679_.jpg" width=200 /> Более удобная версия с гибкими держателями.
+
 Пинцет с очень тонким кончиком (Anti-static Curved/Straight-Tip Forceps/Tweezers), для пайки очень мелких (например smd) деталей.
+
+Вакуумный пинцет для smd монтажа <img src="https://razborbukov.ru/images/stories/virtuemart/product/%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82-FFQ-939-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D1%87%D0%B8%D0%BF%D0%BE%D0%B2-bga-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC-smd-%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D1%81%D0%BA%D0%B8.jpg" width=200 />
 
 ## Флюсы
 Для удобства можно использовать канифоль, растворенную в спирте. Пузырек содержит кисточку.
