@@ -538,7 +538,7 @@ NO (normally open – разомкнуто) и NC (normally closed - замкн�
 
 <img src="https://c.76.my/Malaysia/1set-hand-soldering-iron-stand-helping-magnifying-tool-small-chewhoung-1109-11-chewhoung@1.jpg" width=200 /> Третья рука (Helping Third Hand Clip Tool Soldering Stand), много разных видов, в том числе в 2 и 4 крокодилами, гибкие и жесткие. Используется, для удержания платы при пайке.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/61gSsV38eQL._SX679_.jpg" width=200 /> Более удобная версия с гибкими держателями.
+<img src="https://cdn-shop.adafruit.com/970x728/2474-05.jpg" width=200 /> Более удобная версия с гибкими держателями.
 
 Пинцет с очень тонким кончиком (Anti-static Curved/Straight-Tip Forceps/Tweezers), для пайки очень мелких (например smd) деталей.
 
