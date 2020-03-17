@@ -210,3 +210,4 @@
 23. [Матрица компетентности программиста](http://grompe.org.ru/static/prog_comp_matrix_ru.html)
 24. [The Twelve-Factor App](https://12factor.net/ru/)
 25. [Write a resume that will land you a programming job (анг.)](http://www.techrepublic.com/blog/software-engineer/write-a-resume-that-will-land-you-a-programming-job/)
+26. [Никаких коричневых M&M’s](https://officelesslife.ru/nikakix-korichnevyx-mms-devid-li-rot-i-sila-cheklista/)
