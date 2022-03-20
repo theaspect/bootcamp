@@ -211,3 +211,7 @@
 24. [The Twelve-Factor App](https://12factor.net/ru/)
 25. [Write a resume that will land you a programming job (анг.)](http://www.techrepublic.com/blog/software-engineer/write-a-resume-that-will-land-you-a-programming-job/)
 26. [Никаких коричневых M&M’s](https://officelesslife.ru/nikakix-korichnevyx-mms-devid-li-rot-i-sila-cheklista/)
+27. [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
+28. [Writing system software: code comments.](http://antirez.com/news/124)
+29. [https://habr.com/ru/company/oleg-bunin/blog/537862/](https://habr.com/ru/company/oleg-bunin/blog/537862/)
+30. [https://www.morling.dev/blog/whats-in-a-good-error-message/](What's in a Good Error Message?)
